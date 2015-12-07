@@ -1,0 +1,25 @@
+{
+  "name": "webpack-react-learn",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yzcode/webpack-react-learn.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yzcode/webpack-react-learn/issues"
+  },
+  "homepage": "https://github.com/yzcode/webpack-react-learn",
+  "devDependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-tools": "^0.13.3",
+    "webpack": "^1.12.9"
+  }
+}
