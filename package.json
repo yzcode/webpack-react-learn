@@ -21,12 +21,15 @@
     "babel-browser": "^6.1.19",
     "babel-core": "^6.3.15",
     "browser": "^0.2.6",
+    "bundle": "^0.2.3",
+    "css-loader": "^0.23.0",
     "gulp": "^3.9.0",
     "jquery": "^2.1.4",
     "marked": "^0.3.5",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-tools": "^0.13.3",
+    "style-loader": "^0.13.0",
     "webpack": "^1.12.9"
   }
 }
